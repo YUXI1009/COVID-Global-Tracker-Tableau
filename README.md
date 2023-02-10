@@ -2,6 +2,8 @@
 
 Link to Dataset used by this project: https://ourworldindata.org/covid-deaths
 
+Link to My Tableau Profile: https://public.tableau.com/app/profile/yuxi/viz/COVID-19_16759153865450/GlobalView
+
 Time period of data: 2020-2-24 to 2023-02-07
 
 The whole dashboard using two parameters to measure gloabl COVID total cases & total deaths during above time period
